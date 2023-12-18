@@ -15,4 +15,4 @@ function changeImage() {
     }
 }
 
-setInterval(changeImage, 3000); // Thực hiện chuyển đổi hình ảnh sau mỗi 3 giây
+setInterval(changeImage, 1000); // Thực hiện chuyển đổi hình ảnh sau mỗi 1 giây
